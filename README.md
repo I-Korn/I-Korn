@@ -1,4 +1,4 @@
-### Irina Kornienko
+# Irina Kornienko
 ![Header](https://github.com/I-Korn/Irina-Kornienko/blob/main/assets/rainbow-linkedin-cover-tz4dkpseypmnu2sp.jpg)
 ## I'm a beginner QA Engineer.
 
