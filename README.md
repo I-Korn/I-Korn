@@ -12,8 +12,8 @@
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
-![Header](https://img.shields.io/badge/Redmine-090909?style=for-the-badge&logo=redmine&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Charles Proxy-090909?style=for-the-badge&logo=Charles Proxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Redmine-090909?style=for-the-badge&logo=redmine&logoColor=FF0000)
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=8cc4d7)
 
 ### Testing Documentation
 - [Checklists](https://github.com/I-Korn/check_lists)
