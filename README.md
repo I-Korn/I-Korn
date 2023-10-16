@@ -18,7 +18,7 @@
 ### Testing Documentation
 - [Checklists](https://github.com/I-Korn/check_lists)
 - [Test-Cases](https://github.com/I-Korn/testcases)
-- [Bug-Reports](https://github.com/I-Korn/bag_reports)
+- [Bug-Reports](https://github.com/I-Korn/bug_reports)
 - [Use-Cases](https://github.com/I-Korn/use_cases)
 - [Scenario-Map](https://github.com/I-Korn/scenario_map)
 
