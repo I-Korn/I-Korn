@@ -1,6 +1,6 @@
 # Irina Kornienko
 ![Header](https://github.com/I-Korn/Irina-Kornienko/blob/main/assets/rainbow-linkedin-cover-tz4dkpseypmnu2sp.jpg)
-# I'm a beginner QA Engineer.
+# I'm a beginner QA Engineer
 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1e1bEWa4mG7V9smSCP2rzL-L540HW9DcN/view?usp=sharing)
