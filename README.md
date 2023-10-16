@@ -18,8 +18,8 @@
 ### Testing Documentation
 - [Checklists](https://github.com/I-Korn/check_lists)
 - [Test-Cases](https://github.com/I-Korn/testcases)
-- [Bug-Reports](https://github.com/I-Korn/bug_reports)
-- [Use-Cases](https://github.com/I-Korn/use_cases)
+- [Bug-Reports](https://github.com/I-Korn/bug_reports.git)
+- [Use-Cases](https://github.com/I-Korn/use_cases)        
 - [Scenario-Map](https://github.com/I-Korn/scenario_map)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Korn&show_icons=true&theme=radical)
