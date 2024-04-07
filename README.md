@@ -16,6 +16,8 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=8cc4d7)
 
 ### Testing Documentation
+- [Testovoe Cedra](https://github.com/I-Korn/Test_Cedra.git)
+- [Project PayWell](https://github.com/I-Korn/Test_Paywell.git)
 - [Checklists](https://github.com/I-Korn/check_lists)
 - [Test-Cases](https://github.com/I-Korn/testcases)
 - [Bug-Reports](https://github.com/I-Korn/bug_reports.git)
