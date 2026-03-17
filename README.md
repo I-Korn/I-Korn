@@ -2,8 +2,8 @@
 ![Header](https://github.com/I-Korn/Irina-Kornienko/blob/main/assets/rainbow-linkedin-cover-tz4dkpseypmnu2sp.jpg)
 # I'm a manual QA Engineer
 
-//## My CV
-//[Link to my CV](https://drive.google.com/file/d/1y5IyfEbvkWcK_XG-zLfsZrZEURV8RijE/view?usp=drive_link)
+<!--  ## My CV
+[Link to my CV](https://drive.google.com/file/d/1y5IyfEbvkWcK_XG-zLfsZrZEURV8RijE/view?usp=drive_link) -->
 
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -16,4 +16,4 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=8cc4d7)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Korn&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Korn&show_icons=true&theme=radical) -->
